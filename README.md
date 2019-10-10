@@ -32,6 +32,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Include a photo/movie of your raw circuit in action.**
 
+[Video](https://youtu.be/ifj8dLodRZ8)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
