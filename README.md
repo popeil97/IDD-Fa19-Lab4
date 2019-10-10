@@ -45,4 +45,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+**Cyclops that needs his personal space. If you get too close and touch him, he won't be happy :( **
+
+[CyclopsBoi](https://youtu.be/1rBgaDS1StQ)
  
