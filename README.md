@@ -10,6 +10,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
+[Video](https://github.com/popeil97/IDD-Fa19-Lab4/blob/master/Lab4Vibrator.MOV)
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
@@ -37,6 +39,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
+
+[ProtoPuppet](https://github.com/popeil97/IDD-Fa19-Lab4/blob/master/Lab4Puppet.MOV)
 
 ## Part E. Make it your own
 
